@@ -1,4 +1,4 @@
-Add files via upload
+
 Air Canvas using Python OpenCV 🎨 | Draw in the air with gestures!!
 This project allows users to draw on a canvas in real-time using hand gestures, powered by Python and OpenCV.
 
