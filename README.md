@@ -17,5 +17,7 @@ Steps to Install:
    - pip install numpy
 
 Features:
+
 1.Gesture tracking for virtual drawing.
+
 2.Real-time processing with a smooth and responsive interface.
